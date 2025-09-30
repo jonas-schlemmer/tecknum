@@ -1,15 +1,21 @@
 # 📝 tecknum
 Projeto final da disciplina Desenvolvimento de Sistemas Web I na QI Escolas.
-Desenvolvido uma interface estática para gereciar máquinas virtuais.
+Interface estática desenvolvida para gerenciar máquinas virtuais.
 
 ## 🛠️ Tecnologias
-- HTML5
-- CSS3
-- Conceitos de Mobile First
+- HTML5;
+- CSS3;
+- UX/UI Design.
 
 ## ✅ Funcionalidades
-- Tela de login e cadastro de usuários
-- Listagem de computadores cadastrados
+- Telas de login e de cadastro de usuários;
+- Listagem de computadores cadastrados;
+- Mobile First Design.
+
+## 🖼️ Telas
+![Login](images/layout-login.png)
+![Cadastrar](images/layout-register.png)
+![Computadores - Mobile](images/layout-computers-mobile.png)
 
 ## 🚀 Como Executar
 #### Acesso web:

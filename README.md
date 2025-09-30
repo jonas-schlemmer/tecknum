@@ -13,9 +13,11 @@ Interface estática desenvolvida para gerenciar máquinas virtuais.
 - Mobile First Design.
 
 ## 🖼️ Telas
-![Login](images/layout-login.png)
-![Cadastrar](images/layout-register.png)
-![Computadores - Mobile](images/layout-computers-mobile.png)
+<div align="center>
+  ![Login](images/layout-login.png)
+  ![Cadastrar](images/layout-register.png)
+  ![Computadores - Mobile](images/layout-computers-mobile.png)
+</div>
 
 ## 🚀 Como Executar
 #### Acesso web:
